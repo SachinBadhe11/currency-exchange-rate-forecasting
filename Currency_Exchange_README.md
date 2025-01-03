@@ -1,4 +1,4 @@
-# USD-INR Exchange Rate Prediction with Google Colab
+# Currency Exchange Rate Prediction(USD-INR) with Google Colab
 
 This project leverages the power of Google Colab to analyze the historical USD-INR exchange rate and build a time series model for predicting future exchange rates using the SARIMA model.
 
